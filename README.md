@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_mongoaurelio_" target="blank"><img src="https://img.shields.io/twitter/follow/_mongoaurelio_?logo=twitter&style=for-the-badge" alt="_mongoaurelio_" /></a> </p>
 
-- 🌱 I’m currently learning **Argentina Program**
+- 🌱 I’m currently learning **Argentina Programa**
 
 - 📫 How to reach me **leomotto@gmail.com**
 
